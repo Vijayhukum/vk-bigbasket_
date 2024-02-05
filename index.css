@@ -81,13 +81,13 @@ a {
 }
 
 a:last-child {
-  margin-right: 0; /* Remove margin for the last link to avoid extra spacing */
+  margin-right: 0;
 }
 
 .below-nav {
-  background-color: #ddd; /* Example background color for the section below nav1 and nav2 */
+  background-color: #ddd; 
   padding: 20px;
-  text-align: center; /* Adjust text alignment as needed */
+  text-align: center; 
 }
 .b1 img{
   width: 100%;
@@ -166,7 +166,7 @@ footer {
 }
 
 .footer1, .footer2 {
-  margin-right: 20px; /* Adjust margin as needed */
+  margin-right: 20px;
 }
 
 .cities {
